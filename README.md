@@ -2,9 +2,9 @@
 
 <h4>About me</>
 <hr/>
-<quote>
+<p>
  <strong>I love design and buildings new things</strong> especially for build apps I’m always eager to make the apps <strong>looks nice</strong> and <strong>friendly for user </strong> even though user opened in every <strong>difference size of devices</strong> their used 
-</quote>
+</p>
 <!--
 **isekaiweb/isekaiweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
