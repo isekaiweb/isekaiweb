@@ -1,19 +1,20 @@
 ### Hi Folks, I'm Abraham 👋
+
 ---
-### About me 
+
+### About me
 
 **I love design and buildings new things** especially for build app and **i always eager to make the apps looks nice** and friendly for user even though accessed **on every devices with various size still look good**
 
 ---
--  My Current Status : Undergraduate Student 6th Semester in [STMIK-STIE Mikroskil](https://www.mikroskil.ac.id/) Majoring Mobile & Web
-- My Activity now : [<img align="left" alt="bangk!t" width="22px" src="https://lh3.googleusercontent.com/proxy/WMyxL_2JxubRXAK0vo_68lWw-DLCFeqyaMZAXhY4jxbrl0HIWH5yss-XyRdGY-nyi1uRn9RigNWMSyXbeFepTMT4W_LKENkVPQpZQojujcfth4kYtFlIS5iVQcT3m-sNAIQqJ7JLwSlkfTtwKTeHAlsOTpPBy0_u_Jx4tE0LmOtUOta8_AXzYFJK3UTQx04g4UIonopyYrmEjSHueB3uFuR-7Nf1uWnj-4cUQ7k" />]
-[Learn in Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://www.linkedin.com/company/bangkit-academy-led-by-google-tokopedia-gojek-traveloka/mycompany/)
+
+- My Current Status : Undergraduate Student 6th Semester in [STMIK-STIE Mikroskil](https://www.mikroskil.ac.id/) Majoring Mobile & Web
+- My Activity now : Learn in [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://www.linkedin.com/company/bangkit-academy-led-by-google-tokopedia-gojek-traveloka/mycompany/)
 - I’m looking to collaborate with other content creators
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21cx7rbxla2qhszvd4e3ylely)
-
 
 ### Connect with me:
 
@@ -29,12 +30,12 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Version%20Control%20System-Git-informational?style=flat&logo=git&logoColor=white&color=F05133)
+
 <br />
 
 ![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=isekaiweb&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isekaiweb&layout=compact&count_private=true)](https://github.com/isekaiweb/github-readme-stats)
 
-
-[facebook]:https://web.facebook.com/bulyanzebua
-[linkedin]:https://www.linkedin.com/in/abraham-bulyan-zebua-110ab2140
-[instagram]:https://www.instagram.com/abrahambulyan
+[facebook]: https://web.facebook.com/bulyanzebua
+[linkedin]: https://www.linkedin.com/in/abraham-bulyan-zebua-110ab2140
+[instagram]: https://www.instagram.com/abrahambulyan
