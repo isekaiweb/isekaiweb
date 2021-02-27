@@ -15,8 +15,7 @@
 [<img align="left" alt="abraham | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="abraham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="abraham | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br/>
+[<img align="left" alt="abraham | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 #### Languages and Tools:
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
@@ -37,3 +36,4 @@
 [facebook]: https://web.facebook.com/bulyanzebua
 [linkedin]: https://www.linkedin.com/in/abraham-bulyan-zebua-110ab2140
 [instagram]: https://www.instagram.com/abrahambulyan
+[telegram]:https://t.me/abrahambulyan
