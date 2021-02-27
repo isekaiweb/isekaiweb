@@ -28,7 +28,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-nine-xi.vercel.app/api/spotify-playing" alt="isekai Spotify Playing" width="350" />](https://open.spotify.com/user/21cx7rbxla2qhszvd4e3ylely)
+[<img src="https://spotify-now-playing-isekaiweb.vercel.app/api/spotify-playing" alt="isekai Spotify Playing" width="350" />](https://open.spotify.com/user/21cx7rbxla2qhszvd4e3ylely)
 
 ---
 
