@@ -28,12 +28,12 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="isekai Spotify Playing" width="350" />](https://open.spotify.com/user/21cx7rbxla2qhszvd4e3ylely)
+[<img src="https://widgetspotify-isekaiweb.vercel.app/api/spotify-playing" alt="isekai Spotify Playing" width="350" />](https://open.spotify.com/user/21cx7rbxla2qhszvd4e3ylely)
 
 ---
 
-![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=isekaiweb&count_private=true&hide_border=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isekaiweb&layout=compact&count_private=true&hide=html,css,php&hide_border=true)](https://github.com/isekaiweb/github-readme-stats)
+![Abraham's GitHub stats](https://github-readme-stats.isekaiweb.vercel.app/api?username=isekaiweb&count_private=true&hide_border=true&show_icons=true)
+[![Top Langs](https:/github-readme-stats.isekaiweb.vercel.app/api/top-langs/?username=isekaiweb&layout=compact&count_private=true&hide=html,css,php&hide_border=true)](https://github.com/isekaiweb/github-readme-stats)
 
 [facebook]: https://web.facebook.com/bulyanzebua
 [linkedin]: https://www.linkedin.com/in/abraham-bulyan-zebua-110ab2140
