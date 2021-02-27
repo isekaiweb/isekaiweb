@@ -1,4 +1,5 @@
 ### Hi Folks, I'm Abraham 👋
+
 ---
 
 ### About me
@@ -23,11 +24,13 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21cx7rbxla2qhszvd4e3ylely)
 
 
-### Connect with me:
-
+<details>
+ <summary>:zip: My Social Media:</summary>
 [<img align="left" alt="abraham | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="abraham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="abraham | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+</details>
 
 ---
 
