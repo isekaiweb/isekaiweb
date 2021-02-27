@@ -6,7 +6,8 @@
 
 ---
 -  My Current Status : Undergraduate Student 6th Semester in [STMIK-STIE Mikroskil](https://www.mikroskil.ac.id/) Majoring Mobile & Web
-- My Activity now : ![Bangk!t](https://www.google.co.id/url?sa=i&url=https%3A%2F%2Fwww.dicoding.com%2Fblog%2Fdaftar-bangkit-2021%2F&psig=AOvVaw3YgfL2Kg0ZgiCUJnP09oXj&ust=1614499216031000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLj787TMie8CFQAAAAAdAAAAABAD)[Learn in Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://www.linkedin.com/company/bangkit-academy-led-by-google-tokopedia-gojek-traveloka/mycompany/)
+- My Activity now : [<img align="left" alt="bangk!t" width="22px" src="https://lh3.googleusercontent.com/proxy/WMyxL_2JxubRXAK0vo_68lWw-DLCFeqyaMZAXhY4jxbrl0HIWH5yss-XyRdGY-nyi1uRn9RigNWMSyXbeFepTMT4W_LKENkVPQpZQojujcfth4kYtFlIS5iVQcT3m-sNAIQqJ7JLwSlkfTtwKTeHAlsOTpPBy0_u_Jx4tE0LmOtUOta8_AXzYFJK3UTQx04g4UIonopyYrmEjSHueB3uFuR-7Nf1uWnj-4cUQ7k" />]
+[Learn in Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://www.linkedin.com/company/bangkit-academy-led-by-google-tokopedia-gojek-traveloka/mycompany/)
 - I’m looking to collaborate with other content creators
 
 ### Spotify Playing 🎧
@@ -24,13 +25,16 @@
 
 ### Technology and Stats
 
-![](https://img.shields.io/badge/HyperText%20Markup%20Language-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E44D26)
-![](https://img.shields.io/badge/Cascading%20Style%20Sheets-CSS3-informational?style=flat&logo=css3&logoColor=white&color=379AD6)
+![](https://img.shields.io/badge/Library-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=8011F9)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Version%20Control%20System-Git-informational?style=flat&logo=git&logoColor=white&color=F05133)
+<br />
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isekaiweb&layout=compact&count_private=true)](https://github.com/isekaiweb/github-readme-stats)
 ![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=isekaiweb&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isekaiweb&layout=compact&count_private=true)](https://github.com/isekaiweb/github-readme-stats)
+
+
+[facebook]:https://web.facebook.com/bulyanzebua
+[linkedin]:https://www.linkedin.com/in/abraham-bulyan-zebua-110ab2140
+[instagram]:https://www.instagram.com/abrahambulyan
