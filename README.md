@@ -8,7 +8,6 @@
 
 - My Current Status : Undergraduate Student 6th Semester in [STMIK-STIE Mikroskil](https://www.mikroskil.ac.id/) Majoring Mobile & Web
 - My Activity now : Learn in [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://www.linkedin.com/company/bangkit-academy-led-by-google-tokopedia-gojek-traveloka/mycompany/)
-- I’m looking to collaborate with other content creators
 
 #### Connect with me:
 
