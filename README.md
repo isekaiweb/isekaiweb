@@ -10,8 +10,8 @@
 - My Activity now : Learn in [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://www.linkedin.com/company/bangkit-academy-led-by-google-tokopedia-gojek-traveloka/mycompany/)
 - I’m looking to collaborate with other content creators
 
-
 #### Connect with me:
+
 [<img align="left" alt="abraham | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="abraham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="abraham | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -20,12 +20,11 @@
 <br/>
 
 #### Languages and Tools:
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=F05133)
 ![](https://img.shields.io/badge/Library-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=8011F9)
-
-
 
 ### Spotify Playing 🎧
 
@@ -34,10 +33,11 @@
 ---
 
 ![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=isekaiweb&count_private=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isekaiweb&layout=compact&count_private=true&hide=html,css,php&hide_border=true)](https://github.com/isekaiweb/github-readme-stats)/
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isekaiweb&layout=compact&count_private=true&hide=html,css,php&hide_border=true)](https://github.com/isekaiweb/github-readme-stats)
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=isekaiweb)](https://github.com/isekaiweb/github-readme-stats)
 
 [facebook]: https://web.facebook.com/bulyanzebua
 [linkedin]: https://www.linkedin.com/in/abraham-bulyan-zebua-110ab2140
 [instagram]: https://www.instagram.com/abrahambulyan
-[telegram]:https://t.me/abrahambulyan
+[telegram]: https://t.me/abrahambulyan
