@@ -35,7 +35,10 @@
 <br />
 
 ![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=isekaiweb&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isekaiweb&layout=compact&count_private=true)](https://github.com/isekaiweb/github-readme-stats)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isekaiweb&layout=compact&count_private=true&hide=html,css,php)](https://github.com/isekaiweb/github-readme-stats)
 
 [facebook]: https://web.facebook.com/bulyanzebua
 [linkedin]: https://www.linkedin.com/in/abraham-bulyan-zebua-110ab2140
