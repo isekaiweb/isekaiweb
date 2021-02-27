@@ -25,7 +25,7 @@
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ### Spotify Playing 🎧
 
@@ -33,7 +33,7 @@
 
 ---
 
-![Abraham's GitHub stats](https://github-readme-stats.isekaiweb.vercel.app/api?username=isekaiweb&count_private=true&hide_border=true&show_icons=true&hide=html,css)
+[![Abraham's GitHub stats](https://github-readme-stats.isekaiweb.vercel.app/api?username=isekaiweb&count_private=true&hide_border=true&show_icons=true&hide=html,css)](https://github.com/isekaiweb/github-readme-stats)
 [![Top Langs](https://github-readme-stats-git-master-isekaiweb.vercel.app/api/top-langs/?username=isekaiweb&layout=compact&count_private=true&hide_border=true&hide=html,css)](https://github.com/isekaiweb/github-readme-stats)
 
 [facebook]: https://web.facebook.com/bulyanzebua
