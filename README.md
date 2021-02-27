@@ -32,7 +32,7 @@
 
 ---
 
-![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=isekaiweb&count_private=true&hide_border=true&show_icons=true&title_color=000&bg_color=5B5B5B)
+![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=isekaiweb&count_private=true&hide_border=true&show_icons=true&title_color=000&bg_color=E8EAEC)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isekaiweb&layout=compact&count_private=true&hide=html,css,php&hide_border=true)](https://github.com/isekaiweb/github-readme-stats)
 
 [facebook]: https://web.facebook.com/bulyanzebua
