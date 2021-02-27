@@ -21,10 +21,11 @@
 
 #### Languages and Tools:
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=F05133)
-![](https://img.shields.io/badge/Library-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=8011F9)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Spotify Playing 🎧
 
