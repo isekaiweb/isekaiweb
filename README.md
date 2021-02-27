@@ -1,14 +1,16 @@
 ### Hi Folks, I'm Abraham 👋
-
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=F05133)
-![](https://img.shields.io/badge/Library-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=8011F9)
 ---
 
 ### About me
 
 **I love design and buildings new things** especially for build app and **i always eager to make the apps looks nice** and friendly for user even though accessed **on every devices with various size still look good**
+
+<br/>
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=F05133)
+![](https://img.shields.io/badge/Library-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=8011F9)
 
 ---
 
@@ -20,13 +22,13 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/21cx7rbxla2qhszvd4e3ylely)
 
+<br/>
+
 ### Connect with me:
 
 [<img align="left" alt="abraham | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="abraham | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="abraham | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
 
 
 <br />
