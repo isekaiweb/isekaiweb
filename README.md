@@ -13,7 +13,7 @@
 
 [<img align="left" alt="abraham | Facebook" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174848.svg?token=exp=1614434796~hmac=9f122d919bfb003acf65e736a19c7f63" />][facebook]
 [<img align="left" alt="abraham | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1614434796~hmac=28aefc8ca4858316786ee6439aff8196" />][linkedin]
-[<img align="left" alt="abraham | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1614434796~hmac=94efa47a99ae3e9f6c64dace9a06dc08" />][instagram]
+[<img align="left" alt="abraham | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />][instagram]
 [<img align="left" alt="abraham | Telegram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111646.svg?token=exp=1614434796~hmac=692bb37ff71dc61c8f2497ee397c7c8d" />][telegram]
 
 <br/>
