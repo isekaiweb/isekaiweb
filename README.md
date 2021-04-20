@@ -25,6 +25,7 @@
 [![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com)
 [![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![](https://img.shields.io/badge/Kotlin-F17C30?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
 ### Spotify Playing 🎧
 
