@@ -36,6 +36,8 @@
 [![Abraham's GitHub stats](https://github-readme-stats.isekaiweb.vercel.app/api?username=isekaiweb&count_private=true&hide_border=true&show_icons=true&hide=html,css)](https://github.com/isekaiweb/github-readme-stats)
 [![Top Langs](https://github-readme-stats-git-master-isekaiweb.vercel.app/api/top-langs/?username=isekaiweb&layout=compact&count_private=true&hide_border=true&hide=html,css)](https://github.com/isekaiweb/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=isekaiweb&color=blue&style=flat-square&label=visitors)
+
 [facebook]: https://web.facebook.com/bulyanzebua
 [linkedin]: https://www.linkedin.com/in/abraham-bulyan-zebua-110ab2140
 [instagram]: https://www.instagram.com/abrahambulyan
