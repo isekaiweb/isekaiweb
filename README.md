@@ -7,8 +7,7 @@
 **I love design and make new things** especially for make an app and **my desire is to make apps looks nice and friendly** for user not just nice for eye but easy to use
 
 - My Current Status : Undergraduate Student 6th Semester in [STMIK-STIE Mikroskil](https://www.mikroskil.ac.id/) Majoring Mobile & Web
-- My Activity now : Learn in [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://www.linkedin.com/company/bangkit-academy-led-by-google-tokopedia-gojek-traveloka/mycompany/)
-
+- My Activity now : in internship job at STMIK-STIE Mikroskil as Event Support System to handle event [ideafuse 2021](https://ideafuse.mikroskil.ac.id/2021/)
 #### Connect with me:
 
 [<img align="left" alt="abraham | Facebook" width="22px" src="https://www.freepnglogos.com/uploads/facebook-logo-13.png" />][facebook]
@@ -37,6 +36,6 @@
 [![Top Langs](https://github-readme-stats-git-master-isekaiweb.vercel.app/api/top-langs/?username=isekaiweb&layout=compact&count_private=true&hide_border=true&hide=html,css,shell)](https://github.com/isekaiweb/github-readme-stats)
 
 [facebook]: https://web.facebook.com/bulyanzebua
-[linkedin]: https://www.linkedin.com/in/abraham-bulyan-zebua-110ab2140
+[linkedin]: https://www.linkedin.com/in/abrahambulyan
 [instagram]: https://www.instagram.com/abrahambulyan
 [telegram]: https://t.me/abrahambulyan
