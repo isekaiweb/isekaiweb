@@ -33,7 +33,7 @@
 ---
 
 [![Abraham's GitHub stats](https://github-readme-stats.isekaiweb.vercel.app/api?username=isekaiweb&count_private=true&hide_border=true&show_icons=true&hide=html,css)](https://github.com/isekaiweb/github-readme-stats)
-[![Top Langs](https://github-readme-stats.isekaiweb.vercel.app/api/top-langs/?username=isekaiweb&count_private=true&hide_border=true&show_icons=true&hide=html,css,shell)](https://github.com/isekaiweb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.isekaiweb.vercel.app/api/top-langs/?username=isekaiweb&layout=compact&count_private=true&hide_border=true&show_icons=true&hide=html,css,shell)](https://github.com/isekaiweb/github-readme-stats)
 
 [facebook]: https://web.facebook.com/bulyanzebua
 [linkedin]: https://www.linkedin.com/in/abrahambulyan
