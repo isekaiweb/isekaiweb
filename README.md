@@ -7,7 +7,7 @@
 **I love design and make new things** especially for make an app and **my desire is to make apps looks nice and friendly** for user not just nice for eye but easy to use
 
 - My Current Status : Undergraduate Student 7th Semester at [Mikroskil University](https://www.mikroskil.ac.id/) Majoring Mobile & Web
-- My current Job : Android Developer at [SSDigital](https://ssdigital.id/)
+- My current Job : External Reviewer at [Dicoding](https://www.dicoding.com/)
 #### Connect with me:
 
 [<img align="left" alt="abraham | Facebook" width="22px" src="https://www.freepnglogos.com/uploads/facebook-logo-13.png" />][facebook]
