@@ -26,9 +26,9 @@
 [![](https://img.shields.io/badge/Kotlin-F17C30?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![](https://img.shields.io/badge/Jetpack-00DE7A?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/jetpack)
 
-### Spotify Playing 🎧
+<!-- ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-isekaiweb.vercel.app/api/spotify-playing" alt="isekai Spotify Playing" width="350" />](https://open.spotify.com/user/21cx7rbxla2qhszvd4e3ylely)
+[<img src="https://spotify-now-playing-isekaiweb.vercel.app/api/spotify-playing" alt="isekai Spotify Playing" width="350" />](https://open.spotify.com/user/21cx7rbxla2qhszvd4e3ylely) -->
 
 ---
 
